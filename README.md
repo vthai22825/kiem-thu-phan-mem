@@ -16,7 +16,7 @@
 
 ## Danh sách bài thực hành
 
--[Bài thực hành tuần 1](chapter/chapter1/)
+- [Bài thực hành tuần 1](chapter/chapter1/)
 
 ---
 
