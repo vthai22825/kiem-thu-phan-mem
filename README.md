@@ -5,16 +5,22 @@
 - MSSV: BIT230374
 - Môn học: Kiểm thử phần mềm
 
-## Bài thực hành tuần 1
-### Nội dung
-- Tạo repository GitHub
-- Làm quen với GitHub
-- Lưu trữ kết quả bài thực hành
+---
 
-### Kết quả
-- Đã tạo repo thành công
-- Đã upload file README.md
-- Đã upload ảnh chụp màn hình kết quả
+## Mục tiêu học phần
+- Nắm được các khái niệm cơ bản về kiểm thử phần mềm
+- Thực hành xây dựng tài liệu, test case và báo cáo kết quả
+- Làm quen với GitHub để quản lý và lưu trữ bài tập
 
-### Minh họa
-![Ảnh kết quả](./Ảnh%20chụp%20màn%20hình%202026-01-08%20104154.png)
+---
+
+## Danh sách bài thực hành
+
+-[Bài thực hành tuần 1](chapter/chapter1/)
+
+---
+
+## Ghi chú
+- Mỗi bài thực hành được trình bày trong một thư mục riêng
+- Mỗi thư mục bao gồm file Markdown và hình ảnh minh họa kết quả
+- Repository được tổ chức nhằm thuận tiện cho việc theo dõi và đánh giá
