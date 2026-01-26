@@ -17,6 +17,8 @@
 ## Danh sách bài thực hành
 
 - [Bài thực hành tuần 1](chapter/chapter1/)
+- [Bài thực hành tuần 2 – Unit Test với JUnit](tree/feature/chapter2/chapter/chapter2)
+
 
 ---
 
