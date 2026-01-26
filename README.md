@@ -19,17 +19,20 @@ Chương trình thực hiện phân tích dữ liệu điểm số học sinh, n
 ---
 
 ## 3. Cấu trúc dự án
+
+```
 Junit/
 ├── pom.xml
+├── README.md
 ├── src/
-│ ├── main/
-│ │ └── java/
-│ │ └── StudentAnalyzer.java
-│ └── test/
-│ └── java/
-│ └── StudentAnalyzerTest.java
-├── target/
-└── README.md
+│   ├── main/
+│   │   └── java/
+│   │       └── StudentAnalyzer.java
+│   └── test/
+│       └── java/
+│           └── StudentAnalyzerTest.java
+└── target/
+```
 
 ---
 
